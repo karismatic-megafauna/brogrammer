@@ -6,28 +6,28 @@ readNext: "/trying-to-do-something/"
 path: "/sup-bro/"
 ---
 
-September, 2013. An Origin Story.
+## September, 2013. An Origin Story.
 
-I was on my way to a Dodgers / Giants game in a party bus filled with angsty
-programmers who just did a major upgrade of their rails application to Rails 3.
+I was on my way to a Dodgers / Giants game in a party bus filled with
+programmers who just finished a major upgrade from Rails 2 to Rails 3.
 
-I sat next to a soon to be friend, Patrick Koperwas. 
+I sat next to a soon to be friend, Patrick Koperwas.
 
 He was talking about the future of the internet, his beautiful old VW Golf
 that kept breaking down and good/funny domain names.
 
-'.io' had just become a popular thing, and we thought the Juxtaposition of
-Brogrammer and '.io' was hilarious. So we whipped out our Galaxy S3's 
+Now, '.io' had just become a popular thing, and we thought the Juxtaposition
+of Brogrammer and '.io' was hilarious. So we whipped out our Galaxy S3's
 (cause they were still hot shit), and checked to see if it was available.
 
-Him
-> It's totally availble! You gotta buy it!
+Patrick
+> It's totally available! You gotta buy it!
 
 Me
-> Are you serious! How much...
+> No Way! How much?!?!
 
-Him
-> 75 Dollars, if you don't buy it I will! 
+Patrick
+> 75 Dollars. If you don't buy it, I will!
 
 Me
 > Alright I am in. What are we gonna put on it?
@@ -36,8 +36,8 @@ And that was/is the big question...what goes on Brogrammer?
 
 So we started brainstorming and we arrived at 2 options
 
-0. How to stay in shape while being at a computer all day
-0. Parody of the Tech Industry
+1. How to stay in shape while being at a computer all day
+1. Parody of the Tech Industry
 
 In the process of Brainstorming we realized that there were so many ways of
 "contributing to the problem" with this particular name. The problem being
@@ -55,7 +55,7 @@ do something with Brogrammer, or let it free.
 
 So Here I am, trying to do something.
 
---- put on about page 
+--- put on about page
 What the fuck does one even put on a blog?
 Who wants to hear about this shit?
 
