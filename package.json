@@ -29,5 +29,8 @@
     "react-router": "^0.13.5",
     "typography": "^0.6.2",
     "underscore.string": "^3.2.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^0.8.0"
   }
 }
