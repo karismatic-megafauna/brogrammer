@@ -43,7 +43,7 @@ export default class extends React.Component {
             }}
           >
             <img
-              src="./kyle-round-small-pantheon.jpg"
+              src="./honeybear.jpeg"
               style={{
                 float: 'left',
                 marginRight: rhythm(1/4),
@@ -52,7 +52,7 @@ export default class extends React.Component {
                 height: rhythm(2)
               }}
             />
-            Written by <strong>{this.props.config.authorName}</strong> who lives and works in San Francisco building useful things. <a href="https://twitter.com/kylemathews">You should follow him on Twitter</a>
+            Written by <strong>{this.props.config.authorName}</strong> who lives in Santa Barbara and build software for humans. <a href="https://twitter.com/mghinrichs">You should follow him on Twitter</a>
           </p>
           <ul>
             {pageLinks}

@@ -33,7 +33,7 @@ module.exports = React.createClass({
           <ReadNext post={post} {...this.props}/>
           <p>
             <img
-              src={link("/kyle-round-small-pantheon.jpg")}
+              src={link("/honeybear.jpeg")}
               style={{
                 float: 'left',
                 marginRight: rhythm(1/4),
@@ -42,7 +42,7 @@ module.exports = React.createClass({
                 height: rhythm(2)
               }}
             />
-            <strong>{this.props.config.authorName}</strong> lives and works in San Francisco building useful things. <a href="https://twitter.com/kylemathews">You should follow him on Twitter</a>
+            <strong>{this.props.config.authorName}</strong> lives and works in Santa Barbar building software. <a href="https://twitter.com/mghinrichs">You should follow him on Twitter</a>
           </p>
         </div>
       </DocumentTitle>
